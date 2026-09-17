@@ -42,3 +42,11 @@ Output:
 ```text
 I eat apple
 ```
+
+## Issues and Resolutions
+
+- [Issue #2: Add user input to the greeting program](https://github.com/femibams/SE-Git-hw/issues/2)  
+  Updated `hello.py` to request the user’s name and display a personalized greeting. Resolved by [Pull Request #3](https://github.com/femibams/SE-Git-hw/pull/3).
+
+- [Issue #4: Add usage instructions to README](https://github.com/femibams/SE-Git-hw/issues/4)  
+  Added project requirements, cloning instructions, program descriptions, and usage examples. Resolved by [Pull Request #5](https://github.com/femibams/SE-Git-hw/pull/5).
